@@ -163,4 +163,5 @@ Related scenario (systemd service and timer setup):
 
 ---
 
+
 This lab completes the full logging lifecycle: log generation, secure rotation, retention control, and systemd integration.
